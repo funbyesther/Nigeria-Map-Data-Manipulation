@@ -23,7 +23,7 @@ This repo uses PowerBI to work on the Map Data.
 
 ![image](https://github.com/user-attachments/assets/570c6894-7056-43d0-aed8-0fb1e496d08c)
 
-PowerBI file saved as `Funmbi Map.pbix`
+PowerBI file saved as `Funmbi Map.pbix` afterextractionfrom `Funmbi Map.zip`
 
 
 
